@@ -18,8 +18,8 @@ To use AWFileManager you only need to download the version you want and compile 
 In Windows you can get the GCC (MinGW) compiler and make sure you install the c++ compiler.
 
 In Linux you should have already installed the gcc compiler. If you don´t have it you can do this way:
-sudo apt update
-sudo apt install build-essential
+
+sudo apt update && sudo apt install build-essential
 
 Once the compiler is fixed you can use this commands to get the program:
 - Create/Go to the directory where you want to clone the repository
@@ -35,4 +35,4 @@ IMPORTANT ->
 Pass always the absolute paths of the directories or files.
 If you are running it on Linux take into account that Linux manages the paths in a different way: 
 - "/" for Linux
-- "\" for Windows
+- "\\" for Windows

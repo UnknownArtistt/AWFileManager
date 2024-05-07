@@ -23,7 +23,7 @@ sudo apt update && sudo apt install build-essential
 
 Once the compiler is fixed you can use this commands to get the program:
 - Create/Go to the directory where you want to clone the repository
-- Clone the repository -> git clone https://github.com/Julen-H/AWFileManager or download the source code and extract it there
+- Clone the repository -> git clone https://github.com/UnknownArtistt/AWFileManager or download the source code and extract it there
 - Compile it -> g++ -o AWFileManager AWFileManager(en).cpp
 - Run it -> Windows AWFileManager.exe / Linux ./AWFileManager
 
